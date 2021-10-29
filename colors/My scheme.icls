@@ -3,7 +3,7 @@
     <property name="created">2021-10-29T15:38:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.25</property>
-    <property name="modified">2021-10-29T15:38:09</property>
+    <property name="modified">2021-10-29T15:48:35</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -278,6 +278,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="f5f3ce" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -390,6 +391,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="f5eac1" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
